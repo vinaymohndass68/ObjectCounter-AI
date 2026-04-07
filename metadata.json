@@ -1,0 +1,8 @@
+{
+  "name": "ObjectCounter AI",
+  "description": "An intelligent visual analysis tool that identifies and counts living and non-living objects in your images and videos using Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
